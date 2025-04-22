@@ -82,6 +82,20 @@ function Education() {
   </a>
 ))}
 
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default Education;
+
+
+
+
+
                   // <GlowCard key={education.id} identifier={`education-${education.id}`}>
                   //   <div className="p-3 relative text-white">
                   //     <Image
@@ -109,14 +123,3 @@ function Education() {
                   //     </div>
                   //   </div>
                   // </GlowCard>
-                ))
-              }
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  );
-};
-
-export default Education;
